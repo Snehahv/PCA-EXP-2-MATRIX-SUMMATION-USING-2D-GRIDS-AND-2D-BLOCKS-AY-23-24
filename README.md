@@ -3,7 +3,7 @@
 ### NAME : SNEHA HV
 ### REGISTER NO: 212222040157
 ### EX. NO: 02
-### DATE: 7/10/24
+### DATE: 13/9/24
 
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
